@@ -3,4 +3,4 @@ Happy Birthday
 
 A simple birthday page made using Bootstrap & scrollReveal.js
 
-https://HBD12062000.github.io/
+https://github.com/amalcs9605/HBD12062000.github.io/
